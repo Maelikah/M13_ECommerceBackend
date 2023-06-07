@@ -42,14 +42,6 @@ Product.init(
         key: 'id',
       },
     },
-
-
-    product_name: 'Plain T-Shirt',
-    price: 14.99,
-    stock: 14,
-    category_id: 1,
-
-
   },
   {
     sequelize,

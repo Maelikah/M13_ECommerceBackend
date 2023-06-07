@@ -94,7 +94,7 @@ The purpose of this repository is to build the back end for an e-commerce site b
 
 1. Open integrated terminal
 2. Run `mysql -u root -p` to connect to mysql
-3. Run `db/schema.sql` to create the database
+3. Run `source db/schema.sql` to create the database
 3. Run `npm run seed` to populate the database with seeds
 4. Run `npm start` to initialize the server
 5. Use `insomnia` to test API calls

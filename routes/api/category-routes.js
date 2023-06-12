@@ -59,7 +59,7 @@ router.put('/:id', async (req, res) => {
         category_name: req.body.category_name,
       },
       {
-        WHERE: {
+        where: {
           id: req.params.id
         }
       },

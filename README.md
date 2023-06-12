@@ -104,7 +104,7 @@ The purpose of this repository is to build the back end for an e-commerce site b
 
 The github URL containing the code for this project is located at:
 
-https://github.com/Maelikah/M12_EmployeeTracker
+https://github.com/Maelikah/M13_ECommerceBackend
 
 </br>
 

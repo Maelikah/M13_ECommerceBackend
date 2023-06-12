@@ -114,6 +114,12 @@ Code Walkthrough Functionality:
 
 </br>
 
+User Input Functionality:
+
+![User Input Walkthrough Preview](./assets/Input-Walkthrough.gif)
+
+</br>
+
 
 ---
 
